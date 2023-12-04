@@ -1,0 +1,42 @@
+[submodule "ROCR-Runtime/upstream"]
+	path = ROCR-Runtime/upstream
+	url = https://github.com/RadeonOpenCompute/ROCR-Runtime/
+[submodule "ROCm-Device-Libs/upstream"]
+	path = ROCm-Device-Libs/upstream
+	url = https://github.com/RadeonOpenCompute/ROCm-Device-Libs
+[submodule "ROCT-Thunk-Interface/upstream"]
+	path = ROCT-Thunk-Interface/upstream
+	url = https://github.com/RadeonOpenCompute/ROCT-Thunk-Interface/
+[submodule "ROCm-OpenCL-Runtime/clr"]
+	path = ROCm-OpenCL-Runtime/clr
+	url = https://github.com/ROCm-Developer-Tools/clr
+[submodule "ROCm-Comgr/upstream"]
+	path = ROCm-Comgr/upstream
+	url = https://github.com/RadeonOpenCompute/ROCm-CompilerSupport
+[submodule "rocm-cmake/upstream"]
+	path = rocm-cmake/upstream
+	url = https://github.com/RadeonOpenCompute/rocm-cmake
+[submodule "hipamd/clr"]
+	path = hipamd/clr
+	url = https://github.com/ROCm-Developer-Tools/clr
+[submodule "rocFFT/upstream"]
+	path = rocFFT/upstream
+	url = https://github.com/ROCmSoftwarePlatform/rocFFT
+[submodule "rocSPARSE/upstream"]
+	path = rocSPARSE/upstream
+	url = https://github.com/ROCmSoftwarePlatform/rocSPARSE
+[submodule "rocPRIM/upstream"]
+	path = rocPRIM/upstream
+	url = https://github.com/ROCmSoftwarePlatform/rocPRIM
+[submodule "rocm_bandwidth_test/upstream"]
+	path = rocm_bandwidth_test/upstream
+	url = https://github.com/RadeonOpenCompute/rocm_bandwidth_test
+[submodule "rocHPL/upstream"]
+	path = rocHPL/upstream
+	url = https://github.com/ROCmSoftwarePlatform/rocHPL
+[submodule "rocHPCG/upstream"]
+	path = rocHPCG/upstream
+	url = https://github.com/ROCmSoftwarePlatform/rocHPCG
+[submodule "rocBLAS/upstream"]
+	path = rocBLAS/upstream
+	url = https://github.com/ROCmSoftwarePlatform/rocBLAS
